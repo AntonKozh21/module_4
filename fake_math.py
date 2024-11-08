@@ -5,5 +5,3 @@ def divide(first, second):
         return first / second
 
 
-#result1 = divide(2, 0)
-#print(result1)
